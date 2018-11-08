@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TCPServer", "TCPServer\TCPServer.csproj", "{6CDCD4C0-29F9-4187-9F40-122D665FC567}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tcp_Client", "Tcp_Server\Tcp_Client.csproj", "{80EF3E5D-28D8-4AF2-A2A6-65640C7DE45A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tcp_Clien2", "Tcp_Clien2\Tcp_Clien2.csproj", "{B4A48A83-31DA-4019-ACBC-FE5659EFB129}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CDCD4C0-29F9-4187-9F40-122D665FC567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CDCD4C0-29F9-4187-9F40-122D665FC567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CDCD4C0-29F9-4187-9F40-122D665FC567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CDCD4C0-29F9-4187-9F40-122D665FC567}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80EF3E5D-28D8-4AF2-A2A6-65640C7DE45A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80EF3E5D-28D8-4AF2-A2A6-65640C7DE45A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80EF3E5D-28D8-4AF2-A2A6-65640C7DE45A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80EF3E5D-28D8-4AF2-A2A6-65640C7DE45A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4A48A83-31DA-4019-ACBC-FE5659EFB129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4A48A83-31DA-4019-ACBC-FE5659EFB129}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4A48A83-31DA-4019-ACBC-FE5659EFB129}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4A48A83-31DA-4019-ACBC-FE5659EFB129}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4518F11-200A-43FE-A01A-07DF956028AF}
+	EndGlobalSection
+EndGlobal
